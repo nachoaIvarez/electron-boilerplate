@@ -1,6 +1,6 @@
-# app
+# Electron Boilerplate
 
-> Electron boilerplate with ES6 and SASS support.
+> With ES6 and SASS support!
 
 
 ## Dev
@@ -26,7 +26,7 @@ Builds the app for OS X, Linux, and Windows, using [electron-packager](https://g
 
 ## Credits
 
-Based on [sindresorhus' boilerplate](https://github.com/sindresorhus/electron-boilerplate).
+Based on [sindresorhus boilerplate](https://github.com/sindresorhus/electron-boilerplate).
 
 
 ## License
